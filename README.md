@@ -1,6 +1,8 @@
 # Big-Year
 To do:
-  - implement user interface
+  - add testing
 
 Completed: 
   + some functionality that allows to create new bird objects and add them to the list.
+  + all methods 
+  + user interface
